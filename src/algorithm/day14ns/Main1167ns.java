@@ -1,4 +1,4 @@
 package algorithm.day14ns;
 
-public class Main1167 {
+public class Main1167ns {
 }
