@@ -1,4 +1,4 @@
-package algorithm.day14ns;
+package algorithm.day14ns1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
